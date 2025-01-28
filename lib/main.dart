@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:testtodo/display.dart';
+import 'display.dart';
 
 void main() {
   runApp(MaterialApp(
